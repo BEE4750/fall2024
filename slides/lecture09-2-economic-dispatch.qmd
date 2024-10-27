@@ -4,7 +4,7 @@ subtitle: "Lecture 15"
 author: "Vivek Srikrishnan"
 course: "BEE 4750"
 institution: "Cornell University"
-date: "October 22, 2024"
+date: "October 23, 2024"
 format:
     revealjs:
         slide-number: c/t
