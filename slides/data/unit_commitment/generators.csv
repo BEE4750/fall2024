@@ -1,0 +1,14 @@
+Plant,Resource,Pmin,Pmax,VarCost,Ramp,StartCost,MinUp,MinDown
+Nuclear,Nuclear,200,750,2,150,50000,24,24
+Biomass,Biomass, 0, 50, 5, 50,0,0,0
+Hydroelectric,Hydroelectric, 0, 250, 0, 250,0,0,0
+NG CCGT1,NG CCGT, 220, 500, 23, 200,30000,6,6
+NG CCGT2,NG CCGT, 25, 50, 30, 20,30000,6,6
+NG CCGT3,NG CCGT, 100, 200, 36, 80,30000,6,6
+NG CT1,NG CT, 73, 100, 38, 100,8000,1,1
+NG CT2,NG CT, 21, 48, 39, 48,8000,1,1
+NG CT3,NG CT, 21, 51, 40, 51,8000,1,1
+NG CT4,NG CT, 0, 100, 45, 100,8000,1,1
+NG CT5,NG CT, 0, 100, 46, 100,8000,1,1
+Wind,Wind, 0, 300, 0, 300,0,0,0
+Solar,Solar, 0, 500, 0, 500,0,0,0
