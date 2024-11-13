@@ -34,14 +34,14 @@ Note that this schedule will be updated as necessary the semester progresses, wi
 |     | Wed, Oct 30 | More Gaussian Plumes and Air Pollution Controls | [{{< fa sharp presentation-screen >}}](slides/lecture10-2-managing-air-sources.qmd)  | |  | | 
 |  11  | Mon, Nov 04 | Fixed Costs and Mixed-Integer Programs | [{{< fa sharp presentation-screen >}}](slides/lecture11-1-mixed-integer.qmd)  |  |  | |
 |    | Wed, Nov 06 | Unit Commitment | [{{< fa sharp presentation-screen >}}](slides/lecture11-2-unit-commitment.qmd)  |  |  | |
-| 12    | Mon, Nov 11 |  Network Models and Solid Waste Management  |  |  | | |
+| 12    | Mon, Nov 11 |  Network Models and Solid Waste Management  | [{{< fa sharp presentation-screen >}}](slides/lecture12-1-waste-management.qmd) |  | | |
 |    | Wed, Nov 13 | **Prelim 2** |  | |  | |
 | | | ***Module 4: Uncertainty*** | | | |
 | 13   | Mon, Nov 18 | Stochastic Optimization and Scenario Trees | | | [{{< fa sharp pen-field >}}]{style="color:grey"} | |
-|    | Wed, Nov 20 | Lab: Stochastic Optimization |  | [{{< fa sharp laptop-code >}}]{style="color:grey"} | | |
+|    | Wed, Nov 20 | Optimization Beyond Mathematical Programming |  | [{{< fa sharp laptop-code >}}]{style="color:grey"} | | |
 |  14  | Mon, Nov 25 | Prelim 2 Review    |   |  |    |  |
 |     | Wed, Nov 27 | **No Class: Thanksgiving Break** | | | | |
-| 15 | Mon, Dec 02 | Simulation-Optimization | | | | |
-|    | Wed, Dec 04 |  Multiple Objectives and Tradeoffs | |  | | |
+| 15 | Mon, Dec 02 | **No Class: Project Work** | | | | |
+|    | Wed, Dec 04 |  **No Class: Project Work** | |  | | |
 |  16 | Mon, Dec 09 | **No Class: Project Work** | | | |  |
 :::
