@@ -7,7 +7,7 @@ website:
   page-navigation: true
   title: "BEE 4750 - Fall 2024"
   description: "Homepage for BEE 4750/5750, Environmental Systems Analysis, at Cornell University, Fall 2024."
-  site-url: "https://bee4750.github.io/fall2024"
+  site-url: "https://bee4750.viveks.me/fall2024"
 
   repo-url: https://github.com/BEE4750/fall2024
   repo-actions: [edit, issue]
