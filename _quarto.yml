@@ -7,25 +7,23 @@ website:
   page-navigation: true
   title: "BEE 4750 - Fall 2024"
   description: "Homepage for BEE 4750/5750, Environmental Systems Analysis, at Cornell University, Fall 2024."
-  site-url: "https://bee4750.viveks.me/fall2024"
+  site-url: "https://envsys.viveks.me/fall2024"
 
-  repo-url: https://github.com/BEE4750/fall2024
+  repo-url: https://github.com/bee-envsys-cornell/fall2024
   repo-actions: [edit, issue]
 
   open-graph: true
 
 
   page-footer:
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var course.copyright_year >}} Vivek Srikrishnan</span><br>
+      See the [About Page](/about.qmd) for credit information.
+    center: 
+      - text: "<a href='https://creativecommons.org/licenses/by-sa/4.0/deed.en'>LICENSE: CC-BY-SA {{< fa creative-commons-sa >}} <i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-sa'></i></a>"
     right: |
       Made with [Julia](https://julialang.org) and [Quarto](https://quarto.org/)<br>
       [View the source at {{< fa brands github >}} GitHub]({{< var course.github >}})
-
-    left: |
-      Content {{< fa copyright >}} {{< var course.copyright_year >}}  by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}).
-      See the [About page](/about.html) for credit information.<br>
-      All content licensed under a {{< fa brands creative-commons >}}
-      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
-      [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
   sidebar:
     style: docked
@@ -35,7 +33,7 @@ website:
     search: true
     tools: 
       - icon: github
-        href: https://github.com/BEE4750/fall2024
+        href: https://github.com/bee-envsys-cornell/fall2024
         text: "Github Repository"
       - icon: journal-check
         href: https://canvas.cornell.edu

@@ -1,0 +1,12 @@
+{
+  "hash": "8d53936ece1c2f275959ff5bd4bb4e0c",
+  "result": {
+    "engine": "julia",
+    "markdown": "---\ntitle: \"Linear Programming with `JuMP.jl`\"\nsubtitle: \"Lab 03\"\nauthor: \"Vivek Srikrishnan\"\ncourse: \"BEE 4750\"\ninstitution: \"Cornell University\"\ndate: \"October 16, 2024\"\nformat:\n    revealjs:\n        slide-number: c/t\n        show-slide-number: all\n        center-title-slide: true\n        width: 1280\n        height: 720\n        transition: none\n        toc: true\n        toc-depth: 1\n        toc-title: \"Overview\"\n        history: false\n        link-external-newwindow: true\n        theme: ../sass/slides.scss\n        template-partials:\n            - title-slide.html\n        menu:\n            numbers: true\n        html-math-method: mathjax\n        include-in-header: mathjax-config.html\n        date-format: long\n        email-obfuscation: javascript\n        chalkboard:\n            theme: whiteboard\n            buttons: true\n        controls: true\nengine: julia\njulia:\n    exeflags: [\"+1.10.4\"]\nexecute:\n    freeze: auto\n---\n\n## Lab Instructions\n\n- Spend first 30 minutes working through the LP formulation;\n- Then implement LP in `JuMP`.\n\n## Problem Statement\n\n**Goal**: How much lumber to produce to maximize profit from wood sales?\n\n## Problem Statement\n\n- Forest consists of 320,000 bf of spruce, 720,000 bf of fir.\n- Spruce costs $\\$0.12$ per bf to purchase and fir costs $\\$0.08$ per bf.\n\n| Plywood Grade | Inputs (bf/bf plywood) | Revenue (\\$/1000 bf) |\n|:-------------:|:----------------------:|:--------------------:|\n|       1       |   0.5 (S) + 1.5 (F)    |         400          |\n|       2       |   1.0 (S) + 2.0 (F)    |         520          |\n|       3       |   1.5 (S) + 2.0 (F)    |         700          |\n\n: Wood inputs and revenue by plywood grade. S refers to spruce inputs, F fir inputs. {#tbl-inputs}\n\n\n\n# Upcoming Schedule\n\n## Next Classes\n\n**Monday**: **Labor Day!**\n\n**Wednesday**: Intro to Systems Analysis\n\n## Assessments\n\n- Weekly Exercises: Basically a syllabus quiz.\n- HW 1: Available, due 9/6.\n\n",
+    "supporting": [
+      "lecture08-2-jump-lp_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
